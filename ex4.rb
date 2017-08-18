@@ -17,4 +17,4 @@ puts "All PCs have free #{space_left} space"
 puts "There are #{people_in_room} people in room"
 puts "Up to #{people_per_PC} can use one PC"
 puts "In best case, only #{Needed_PCs} will be occupied"
- 
+puts "In worst case, there wont be enough PCs in room" 
