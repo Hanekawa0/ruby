@@ -11,3 +11,8 @@ puts %q{
   I am able to type as much as I like
   Even 3, or 10.
 }
+
+
+puts %q{
+        sdasd
+}
